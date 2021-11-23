@@ -23,7 +23,7 @@ class LambdaDemo extends Component {
     return (
       <p>
         <h1> uder construction</h1>
-      <h2>THanks for visiting us. </h2>
+      <h2>THan ks for visiting us. </h2>
         <br />
         <span>{msg}</span>
       </p>
